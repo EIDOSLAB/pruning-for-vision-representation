@@ -4,12 +4,10 @@ This repository provides code and tools for research on **pruning neural network
 
 ## Features
 
-- **Pruning Methods**: Implementations for different pruning strategies to reduce model size and improve efficiency.
-- **Support for Multiple Architectures**: Includes scripts for ResNet, ViT, MobileNet, VGG, and more.
+- **Support for Multiple Architectures**: Different versions of ResNet and ViT.
 - **Training & Evaluation**: End-to-end scripts for training pruned models and evaluating them on standard vision benchmarks (e.g., ImageNet, VOC, COCO).
 - **Visualization & Analysis**: Utilities for comparing model vs. human performance, saving high-quality plots, and analyzing learned representations.
 - **Explainability**: Some explainability techniques implemented in this repository are taken from the [Captum library](https://captum.ai/).
-- **Model Export**: Convenient functions for saving and loading model weights, including hashing for reproducibility.
 
 ## News
 
