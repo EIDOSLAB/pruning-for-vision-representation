@@ -13,7 +13,7 @@ This repository provides code and tools for research on **pruning neural network
 
 ## News
 
-- 📄 The corresponding article has been **accepted at ICIAP 2025**.
+- 📄 The corresponding paper has been **accepted at ICIAP 2025**.
 
 ## Getting Started
 
