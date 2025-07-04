@@ -62,6 +62,19 @@ Scripts such as `mvh_triple_comparison.py` and `mvh_performance_rn50_vs_rn18.py`
 - `datasets.py` — Dataset loading and handling.
 - `cluster_for_OD.py`, `mvh_triple_comparison.py`, etc. — Additional experiments and analyses.
 
+## 📚 Bibtex
+```bibtex
+@misc{cassano2025doespruningbenefitvision,
+      title={When Does Pruning Benefit Vision Representations?}, 
+      author={Enrico Cassano and Riccardo Renzulli and Andrea Bragagnolo and Marco Grangetto},
+      year={2025},
+      eprint={2507.01722},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.01722}, 
+}
+```
+
 ## Acknowledgements
 
 - Some explainability techniques are taken from the [Captum library](https://captum.ai/).
